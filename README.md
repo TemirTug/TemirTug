@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Temirlan Tugushev
+- 👋 Hi, I’m Temirlan 
 - 👀 I’m interested in data analysis and data science
 - 📫 How to reach me: tg @TemirTug
 
